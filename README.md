@@ -6,6 +6,11 @@ Python is a high-level, general-purpose programming language. Its design philoso
 Libraries:- (TK-inter)
 Tkinter is a Python binding to the Tk GUI toolkit. It is the standard Python interface to the Tk GUI toolkit, and is Python's de facto standard GUI. Tkinter is included with standard Linux, Microsoft Windows and macOS installs of Python. The name Tkinter comes from Tk interface.
 
+CHATBOT:
+There is a new functionality which user can add of chatbot you can make/ create your api and write function on that which will run in CLI.
+
+
+
 
 ScreenShots:
 
